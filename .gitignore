@@ -12,7 +12,13 @@ coverage/
 .env.*
 !.env.example
 *.pem
-*.key
+*.keyfeat: inicializar el proyecto muro-proxy con configuración de Express y Vite
+
+- Agregar package.json con dependencias y scripts para desarrollo y producción
+- Crear server.ts para los endpoints de la API (GET, POST, PUT, DELETE) usando Express
+- Implementar el frontend con HTML, CSS (Tailwind) y JavaScript para la gestión de publicaciones
+- Configurar Vite para las compilaciones de desarrollo y producción
+- Incluir configuración de TypeScript para la seguridad de tipos
 
 # Logs
 logs/
